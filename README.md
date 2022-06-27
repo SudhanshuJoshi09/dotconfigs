@@ -1,4 +1,4 @@
 ## TODO
-    1. Adding .vimrc
-    2. Adding .zshrc
-    3. Adding .tmux.conf
+    1. Adding .tmux.conf
+    2. Adding .vimrc
+    3. Adding .zshrc
